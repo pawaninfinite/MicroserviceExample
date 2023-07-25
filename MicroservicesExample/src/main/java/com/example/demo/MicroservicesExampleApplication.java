@@ -9,7 +9,6 @@ public class MicroservicesExampleApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(MicroservicesExampleApplication.class, args);
 		
-		
-	}
+			}
 
 }
